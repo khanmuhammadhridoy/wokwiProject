@@ -1,7 +1,7 @@
 # wokwiProject
 
 - **Ultrasonic-Sensor-Arduino-Code** https://wokwi.com/projects/371600357953829889
-  ![image](https://github.com/khanmuhammadhridoy/wokwiProject/assets/68956850/b7aff20b-223f-470c-b825-d95a4186833f = 250x)
+  <img src="https://github.com/khanmuhammadhridoy/wokwiProject/assets/68956850/b7aff20b-223f-470c-b825-d95a4186833f" width="200">
 
 - **4sonic Sensor With LED** https://wokwi.com/projects/371603536108084225
 - **3 sonic Sensor** https://wokwi.com/projects/372003710938411009
