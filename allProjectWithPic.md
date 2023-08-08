@@ -1,5 +1,8 @@
 # Wokwi Project
 
+- **[Maze Robot](https://wokwi.com/projects/372410771108220929)**
+  <p><img src="https://github.com/khanmuhammadhridoy/wokwiProject/assets/68956850/dc5d5aad-e570-4cd0-9c23-9195ef88446a" width="150"></p>
+
 - **[3 sonic Sensor, display with condition](https://wokwi.com/projects/372187266148338689)** 
   <p><img src="https://github.com/khanmuhammadhridoy/wokwiProject/assets/68956850/dc5d5aad-e570-4cd0-9c23-9195ef88446a" width="150"></p>
 
